@@ -3,6 +3,8 @@
     <h1>Home Page</h1>
     <h3 class='less'><span>Less</span></h3>
     <span class="import-less">外部引入less</span>
+    <h3>Ant Design</h3>
+    <a-button type="primary">Primary</a-button>
   </div>
 </template>
 

@@ -14,6 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "ant-design-vue": "^1.4.10",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "vue": "^2.5.2",
@@ -27,6 +28,7 @@
     "babel-jest": "^21.0.2",
     "babel-loader": "^7.1.1",
     "babel-plugin-dynamic-import-node": "^1.2.0",
+    "babel-plugin-import": "^1.13.0",
     "babel-plugin-syntax-jsx": "^6.18.0",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.22.0",
@@ -66,6 +68,7 @@
     "selenium-server": "^3.0.1",
     "semver": "^5.3.0",
     "shelljs": "^0.7.6",
+    "style-loader": "^1.0.1",
     "uglifyjs-webpack-plugin": "^1.1.1",
     "url-loader": "^0.5.8",
     "vue-jest": "^1.0.2",
